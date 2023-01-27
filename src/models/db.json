@@ -39,7 +39,8 @@
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png",
       "types": [
         "Insecte",
-        "Poison"
+        "Poison",
+        "Plante"
       ]
     },
     {
@@ -102,6 +103,16 @@
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
       "types": [
         "Feu"
+      ]
+    },
+    {
+      "id": 1674815711740,
+      "hp": 100,
+      "cp": 10,
+      "name": "mon nouveau pokemon",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/182.png",
+      "types": [
+        "Normal"
       ]
     }
   ]
